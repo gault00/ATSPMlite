@@ -1,0 +1,20 @@
+C:\Users\sgaul\source\repos\ATSPMWatchDog\ATSPMWatchDog\obj\Debug\ATSPMWatchDog.csprojAssemblyReference.cache
+C:\Users\sgaul\source\repos\ATSPMWatchDog\ATSPMWatchDog\obj\Debug\ATSPMWatchDog.csproj.CoreCompileInputs.cache
+C:\Users\sgaul\source\repos\ATSPMWatchDog\ATSPMWatchDog\bin\Debug\ATSPMWatchDog.exe.config
+C:\Users\sgaul\source\repos\ATSPMWatchDog\ATSPMWatchDog\bin\Debug\ATSPMWatchDog.exe
+C:\Users\sgaul\source\repos\ATSPMWatchDog\ATSPMWatchDog\bin\Debug\ATSPMWatchDog.pdb
+C:\Users\sgaul\source\repos\ATSPMWatchDog\ATSPMWatchDog\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sgaul\source\repos\ATSPMWatchDog\ATSPMWatchDog\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sgaul\source\repos\ATSPMWatchDog\ATSPMWatchDog\obj\Debug\ATSPMWatchDog.csproj.CopyComplete
+C:\Users\sgaul\source\repos\ATSPMWatchDog\ATSPMWatchDog\obj\Debug\ATSPMWatchDog.exe
+C:\Users\sgaul\source\repos\ATSPMWatchDog\ATSPMWatchDog\obj\Debug\ATSPMWatchDog.pdb
+C:\Users\sgaul\source\repos\ATSPMWatchDog - public\ATSPMWatchDog\bin\Debug\ATSPMWatchDog.exe.config
+C:\Users\sgaul\source\repos\ATSPMWatchDog - public\ATSPMWatchDog\bin\Debug\ATSPMWatchDog.exe
+C:\Users\sgaul\source\repos\ATSPMWatchDog - public\ATSPMWatchDog\bin\Debug\ATSPMWatchDog.pdb
+C:\Users\sgaul\source\repos\ATSPMWatchDog - public\ATSPMWatchDog\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sgaul\source\repos\ATSPMWatchDog - public\ATSPMWatchDog\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sgaul\source\repos\ATSPMWatchDog - public\ATSPMWatchDog\obj\Debug\ATSPMWatchDog.csprojAssemblyReference.cache
+C:\Users\sgaul\source\repos\ATSPMWatchDog - public\ATSPMWatchDog\obj\Debug\ATSPMWatchDog.csproj.CoreCompileInputs.cache
+C:\Users\sgaul\source\repos\ATSPMWatchDog - public\ATSPMWatchDog\obj\Debug\ATSPMWatchDog.csproj.CopyComplete
+C:\Users\sgaul\source\repos\ATSPMWatchDog - public\ATSPMWatchDog\obj\Debug\ATSPMWatchDog.exe
+C:\Users\sgaul\source\repos\ATSPMWatchDog - public\ATSPMWatchDog\obj\Debug\ATSPMWatchDog.pdb

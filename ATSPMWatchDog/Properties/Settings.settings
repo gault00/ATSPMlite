@@ -1,0 +1,60 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ATSPMWatchDog.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SignalConfigFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\atspm\config\signals_MJB_4-20-19.json</Value>
+    </Setting>
+    <Setting Name="DATfolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\atspm\dat_processed</Value>
+    </Setting>
+    <Setting Name="EmailNotificationsTo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sgault@yahoo.com</Value>
+    </Setting>
+    <Setting Name="GenerateEmail" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="EmailSubject" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Traffic Signal ATSPM Alerts in Mount Joy Borough</Value>
+    </Setting>
+    <Setting Name="ConsecutiveCount" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="DefaultEmailAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mtjoytwp.engineer@gmail.com</Value>
+    </Setting>
+    <Setting Name="LowHitThreshold" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="MinimumRecords" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">500</Value>
+    </Setting>
+    <Setting Name="MinPhaseTerminations" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="PercentThreshold" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.9</Value>
+    </Setting>
+    <Setting Name="PreviousDayPMPeakEnd" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">18</Value>
+    </Setting>
+    <Setting Name="PreviousDayPMPeakStart" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">17</Value>
+    </Setting>
+    <Setting Name="ScanDayEndHour" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="ScanDayStartHour" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="WeekdayOnly" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="MaximumPedestrianEvents" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">200</Value>
+    </Setting>
+    <Setting Name="EmailAllErrors" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
